@@ -1,0 +1,52 @@
+Basilios Developer-Use License
+Version 1.0
+
+Copyright (c) 2026 Basilios P.
+
+Permission is granted to any person obtaining a copy of this repository and associated files (the "Work") to use, copy, modify, and distribute the Work solely for personal, internal, evaluation, research, and development purposes, subject to the conditions below.
+
+1. Development-Only Purpose
+The Work is provided for development, testing, research, evaluation, and educational purposes only. It is not licensed for production use, commercial deployment, or use in safety-critical, regulated, or customer-facing environments.
+
+2. No Endorsement; No Google Permission Granted
+This repository contains modifications, integrations, packaging, or build adjustments created by the repository author. Nothing in this license grants any right, title, permission, or authorization under the intellectual property, contractual rights, trademarks, branding, binaries, models, SDK terms, or other rights of Google or any third party.
+
+If any part of the Work depends on, incorporates, links to, redistributes, or is derived from software, binaries, weights, trademarks, APIs, documentation, or other materials owned or controlled by Google or any third party, you are solely responsible for determining whether your use is permitted and for obtaining any required consent, approval, or license from the relevant rights holder before using, copying, distributing, publishing, or deploying such materials.
+
+3. No Production or Commercial Use
+You may not use the Work in production, as part of a commercial offering, for paid services, or in any environment where failure, malfunction, inaccuracy, or noncompliance could create legal, financial, operational, privacy, security, or safety risk.
+
+4. Redistribution Conditions
+If you distribute the Work or any modified version of it, you must:
+(a) include this license in full;
+(b) include all existing copyright, attribution, and notice files;
+(c) clearly state that your version is unofficial;
+(d) clearly state that it is provided for development purposes only;
+(e) clearly state that no support, warranty, or maintenance is provided; and
+(f) not imply sponsorship, endorsement, affiliation, approval, or review by Google or any other third party.
+
+5. No Trademark Rights
+This license does not grant any right to use the name, logos, marks, trade dress, or branding of the repository author, Google, or any third party except as strictly necessary for nominative reference.
+
+6. No Obligation to Support or Maintain
+The Work is provided voluntarily. The repository author has no obligation to provide maintenance, updates, bug fixes, compatibility changes, documentation, support, responses to issues, security patches, or assistance of any kind.
+
+7. Assumption of Risk
+You use the Work entirely at your own risk. You are solely responsible for validating functionality, performance, compatibility, legality, security, privacy, export compliance, platform policy compliance, and fitness for your intended use.
+
+8. Disclaimer of Warranties
+THE WORK IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, PERFORMANCE, AVAILABILITY, SECURITY, OR ACCURACY.
+
+9. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE REPOSITORY AUTHOR OR ANY CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE, ARISING FROM OR RELATED TO THE WORK OR THE USE OF OR OTHER DEALINGS IN THE WORK, INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, REGULATORY, OR PUNITIVE DAMAGES.
+
+10. Indemnity
+If you use, distribute, deploy, or adapt the Work, you agree to be solely responsible for that use and to indemnify and hold harmless the repository author and contributors from claims arising out of your use, distribution, or deployment, to the maximum extent permitted by law.
+
+11. Termination
+Any use of the Work in violation of this license automatically terminates the permissions granted under this license.
+
+12. Scope
+This license applies only to rights, if any, that the repository author may grant in the author’s own modifications and repository contents. It does not supersede, replace, limit, or expand any upstream license or third-party terms that may also apply.
+
+By using or distributing the Work, you agree to these terms.
