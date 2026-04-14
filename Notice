@@ -1,0 +1,19 @@
+Unofficial Development Build Notice
+
+This repository contains an unofficial modification/adaptation intended for development, testing, research, and evaluation purposes only.
+
+Important:
+- This is not an official Google release.
+- This is not supported, maintained, reviewed, certified, or endorsed by Google.
+- Do not assume this repository grants any right to use Google-owned binaries, SDKs, trademarks, model assets, or other materials beyond whatever Google separately allows.
+- If your use requires Google's permission, consent, or license, you must obtain that directly from Google.
+- Use at your own risk.
+
+No Support
+The repository is shared as-is. The author is under no obligation to fix issues, answer questions, review pull requests, provide updates, or maintain compatibility.
+
+No Production Use
+This repository is intended for developer experimentation only and should not be used in production or relied on for commercial, regulated, or safety-sensitive environments.
+
+Your Responsibility
+You are responsible for validating legal compliance, licensing, platform policy compliance, security, privacy, and technical suitability before using any part of this repository.
