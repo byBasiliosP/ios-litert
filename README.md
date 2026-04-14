@@ -1,16 +1,23 @@
 # ios-litert
 
-Clean iOS LiteRT runtime package extracted from the current MyBuddyApp runtime outputs.
+Private distribution repository for a clean iOS LiteRT runtime package.
 
-## Contents
+## Package Contents
 
 - `LiteRtLmRuntime.xcframework`
 - `GemmaModelConstraintProvider.xcframework`
 
-## Notes
+## Required Integration Contract
 
-`LiteRtLmRuntime.xcframework` is not standalone in this packaging. The runtime depends on `GemmaModelConstraintProvider.xcframework`, so both frameworks are included together.
+`LiteRtLmRuntime.xcframework` is not standalone. The runtime binary is linked to
+load `libGemmaModelConstraintProvider.dylib` from the same embedded framework
+location, so both xcframeworks must be embedded together.
 
-## Source
+## Documentation
 
-These artifacts were extracted from the `LocalRuntime/` packaging outputs used by the iOS app build.
+- [Binary Integration Report](docs/BINARY_INTEGRATION_REPORT.md)
+
+## Artifact Scope
+
+This repository is intentionally limited to the packaged runtime deliverables and
+their integration documentation. Application-specific project files are excluded.
